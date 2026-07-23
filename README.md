@@ -46,6 +46,14 @@ Durante o desenvolvimento, foram aplicados conceitos relacionados à metodologia
 
 ---
 
+## 📷 Imagens
+
+<p align="center">
+<img width="480" height="258" alt="favoritos" src="https://github.com/user-attachments/assets/b8952f4b-df30-4a62-8c16-040ad37d2bdc" />
+<img width="480" height="258" alt="carrinho" src="https://github.com/user-attachments/assets/fe13468d-5bee-4d1a-9776-515ac8c8bb94" />
+<img width="480" height="258" alt="pedidos" src="https://github.com/user-attachments/assets/fe1656df-a523-438d-a688-ee50b921e7c1" />
+</p>
+
 ## 👨‍💻 Autor
 
 O projeto foi desenvolvido em equipe como projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas.
