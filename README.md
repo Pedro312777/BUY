@@ -38,7 +38,7 @@ A ideia é facilitar o processo de busca e comparação de produtos para os cons
 
 ---
 
-## 🎓 Contexto acadêmico
+## 🎓 Contexto
 
 Este projeto foi desenvolvido em equipe como parte das atividades acadêmicas da disciplina de **Metodologia Ágil Scrum**, no curso de **Análise e Desenvolvimento de Sistemas**.
 
@@ -46,12 +46,25 @@ Durante o desenvolvimento, foram aplicados conceitos relacionados à metodologia
 
 ---
 
-## 👥 Equipe
+## 👨‍💻 Autor
 
-Projeto desenvolvido por estudantes do curso de **Análise e Desenvolvimento de Sistemas**.
+O projeto foi desenvolvido em equipe como projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas.
+
+Meu papel: Atuei no desenvolvimento do front-end das páginas de Carrinho, Pedidos e Favoritos, contribuindo para a criação das interfaces e da experiência de navegação dessas funcionalidades.
 
 ---
 
-## 📌 Status do projeto
+## 📫 Contato
 
-🚧 Projeto acadêmico em desenvolvimento.
+- LinkedIn: https://www.linkedin.com/in/josepedro-dev/
+- Email: josepedrointeligencia@gmail.com
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos e de aprendizado.
+
+---
+
+⭐ Caso tenha gostado do projeto, deixe uma estrela no repositório!
